@@ -5,6 +5,28 @@ Performance analysis of RC Celta 2023-2024 vs 2024-2025 using Python, SQL, Power
 
 This project analyses the performance of RC Celta during 2023-2024 vs 2024-2025 seasons through a comparative study of team statistics and key performance indicators.
 
+## Dashboards
+
+### General Dashboard
+
+![General Dashboard](DashboardCelta_General.png)
+
+### Goals & Assists Analysis
+
+![Goals and Assists](DashboardCelta_Gls+Ast.png)
+
+### Offensive Performance
+
+![Offensive Performance](DashboardCelta_RendimientoOfensivo.png)
+
+### Defensive Performance
+
+![Defensive Performance](DashboardCelta_RendimientoDefensivo.png)
+
+### Radar Chart
+
+![Radar Chart](DashboardCelta_RadarChart.png)
+
 ## Tools Used
 
 - Python
